@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LanguageManager-iOS'
-  s.version          = '1.2.0'
+  s.version          = '1.3.0'
   s.summary          = 'Language manager used to handle change app language'
 
   s.description      = <<-DESC
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Abedalkareem' => 'abedalkareem.omreyh@yahoo.com' }
-  s.source           = { :git => 'https://github.com/Abedalkareem/LanguageManager-iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/iBolom/LanguageManager-iOS.git', :tag => s.version.to_s }
   s.swift_version = '5.0'
   s.social_media_url = 'https://twitter.com/AbedalkareemOmr'
 
